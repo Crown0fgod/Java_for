@@ -1,0 +1,27 @@
+package myday04controllStatemant;
+
+public class WhileTest {
+	public static void main(String[] args) {
+		
+//		for문과 while문 이름 10번 출력
+		for(int i = 0; i < 10; i++) {
+			System.out.println(i + 1 + ".김진수");
+		}
+		
+		int count = 0;
+		while(count != 10) {
+			count++;
+			System.out.println(count + ".김진수");
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

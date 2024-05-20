@@ -1,0 +1,16 @@
+package arrayTest;
+
+public class ArTask {
+	public static void main(String[] args) {
+		
+//	 1 ~ 10까지 배열에 담고 출력
+		
+		
+		
+//	10 ~ 1까지 중 짝수만 배열에 담고 출력
+		
+		
+		
+		
+	}
+}
